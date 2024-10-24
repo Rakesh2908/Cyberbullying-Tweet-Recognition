@@ -12,7 +12,7 @@ This project aims to analyze tweets to predict whether a tweet contains cyberbul
 
 ### Dataset
 
-We utilized the [Cyberbullying Classification Dataset](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification) from Kaggle to train and test our models.
+Utilized the [Cyberbullying Classification Dataset](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification) from Kaggle to train and test our models.
 
 ## Approach
 
